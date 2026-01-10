@@ -1,3 +1,4 @@
+
 const gameView = document.getElementById("gameView");
 const ctx = gameView.getContent('2d');
 const gameHeight = 200;
